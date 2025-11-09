@@ -4,7 +4,7 @@ Beautiful Apple Maps–style bottom sheet built with React Native
 
 ## 🚀 Preview
 
-https://github.com/rit3zh/expo-apple-maps-bottom-sheet/assets/demo.mp4
+https://github.com/user-attachments/assets/c4280638-5dc2-4b34-9ad8-2a73f46c9a70
 
 ---
 
