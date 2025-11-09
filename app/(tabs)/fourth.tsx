@@ -2,10 +2,10 @@ import React from "react";
 import { StyleSheet, Text } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 
-export default function Index() {
+export default function FourthScreen() {
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.text}>Index</Text>
+      <Text style={styles.text}>FourthScreen</Text>
     </SafeAreaView>
   );
 }
